@@ -1,0 +1,5 @@
+welcome_text: Benvenuto nella skill per controllare il tuo led. Chiedimi di cambiare lo stato del led e puoi dire attiva, oppure, disattiva
+
+command: Il tuo comando {{ onOffCommand }} è stato eseguito
+
+command_reprompt: NOn ho capito.Cosa vuoi fare?
