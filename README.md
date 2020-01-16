@@ -1,6 +1,13 @@
 # ledControlSkill
 Control a led connected at Raspberry Pi with Alexa
 
+<b>Hardware configuration:</b>
+
+- For connect your Raspberry at your led, see image "Led Circuit" into this project.
+- For control the connections, see image "PIN_GPIO Raspberry" into this project.
+
+<b>Software configuration:</b>
+
 - You must create a custom skill into Amazon developer console,
 - Create a custom skill into Amazon developer console.
 - Set invocation name
