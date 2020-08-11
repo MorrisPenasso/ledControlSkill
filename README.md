@@ -23,5 +23,3 @@ Control a led connected at Raspberry Pi with Alexa
 - Compile your file "led-control.py".
 
 Try it!!!
-
-See my video dimostration to see how it work: https://drive.google.com/open?id=1Eo4MbbOyEQoxQOfQbHq7g02o8UbzcvQK
